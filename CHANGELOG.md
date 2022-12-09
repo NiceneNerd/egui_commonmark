@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## 0.6.0 - 2022-10-08
+
+### Changed
+
+- Upgraded egui to 0.20
+
+## 0.5.0 - 2022-11-29
+
 ### Changed
 
 - Default dark syntax highlighting theme has been changed from base16-mocha.dark
